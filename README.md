@@ -1,0 +1,1 @@
+# Pratic - Patikaflix Diziler Platform
